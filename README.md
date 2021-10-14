@@ -8,3 +8,7 @@ Deep Learning kutatás: http://smartlab.tmit.bme.hu/deep-learning
 A tartalmak egészének vagy bármely részének újra felhasználása, publikálása csak a szerzők írásos beleegyezése esetén megengedett.
 
 Kontakt személy: Dr. Gyires-Tóth Bálint (toth pont b kukac tmit pont bme pont hu)
+
+Gyakorlat Colab: 
+
+http://bit.ly/VITMAV45-2021-GYAK
