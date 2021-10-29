@@ -1,0 +1,18 @@
+Készíts előrecsatolt mély neuronhálót/hálókat, ami megjósolja a várható középhőmérsékletet (max és min átlaga adott napra) egy napra, egy hétre és egy hónapra előre Budapesten.
+
+Lehetséges források:
+
+    http://idojarasbudapest.hu/archivalt-idojaras
+    https://www.metnet.hu/?m=napi-adatok
+    http://www.amsz.hu/ws/index.php?view=archiv
+    Bármi, amit találsz!
+
+A megoldást részletesen dokumentáld (kommentek, readme.md) és Jupyter Notebook formátumban töltsd fel. A megoldás legyen egyszerűen futtatható. A tanítóadatokat külön CSV fájlba mellékeld, illetve a megoldásodban legyen megjelenítve 3 jósolt érték is a következő napokra:
+
+    november 8
+    november 15
+    december 6
+
+A kis házi feladatot angol nyelven add be! Törekedj a minél rövidebb kódra!
+
+Csak Github-ra secret gist-ként feltöltött Jupyter notebook formátumot fogadunk el, amelyben a kódok mellett magyarázat, az eredmények és a diff jellegű eszköz által megadott különbségek is láthatóak. A Notebook-ban szerepeljen az „Open in Colab” nyomógomb, amire kattintva megnyitja a notebook-ot Google Colab alatt. A megoldás URL-jét küldd be. 
